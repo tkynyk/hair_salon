@@ -91,6 +91,7 @@ header h1 {
 }
 
 header h1 span {
+	font-family: 'Rokkitt', serif;
 	font-size: 33px;
 	color: #734339;
 	font-weight: bold;
